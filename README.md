@@ -10,6 +10,6 @@
 
 ## Ayarlamanız gereken kısımlar;
 
->####**İndex.php**
+>**İndex.php**
 -  4.satırdaki kısıma discord webhook urlsini yerleştirmeniz gerekmektedir.
 -  80.satır ile 126.satır arasındaki discord webhook mesajını kendinize göre düzenleyebilirsiniz.
